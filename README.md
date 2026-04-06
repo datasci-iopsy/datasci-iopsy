@@ -4,7 +4,7 @@
 
 ---
 
-I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCSU Psychometrics Lab](https://github.com/NCSU-Psychometrics-Lab), currently working as a Principal Data Engineer in People Analytics at MatterMore (Madrid). My work bridges organizational science and engineering — from psychometric measurement and personnel selection to enterprise data pipelines, cloud architecture, and applied ML. Doctoral research is managed end-to-end as a DataOps & DevOps workflow.
+I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCSU Psychometrics Lab](https://github.com/NCSU-Psychometrics-Lab), currently working as a Principal Data Engineer in People Analytics at [MatterMore](https://www.mattermore.ai). My work bridges organizational science and engineering, from psychometric measurement and personnel selection to enterprise data pipelines, cloud architecture, and applied ML and AI.
 
 **Find me:**
 
@@ -15,7 +15,7 @@ I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCS
 
 ---
 
-**Languages & authoring:**
+**Languages & Authoring:**
 
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![renv](https://img.shields.io/badge/renv-4E79A7?style=flat&logoColor=white)](https://rstudio.github.io/renv/)
@@ -35,7 +35,7 @@ I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCS
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
-**Data engineering & platforms:**
+**Data Engineering & DataOps:**
 
 [![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/)
