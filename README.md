@@ -1,4 +1,4 @@
-## Hi, I'm Demetrius K. Green
+## Hello there, I'm Demetrius K. Green
 
 *People Researcher · Data Scientist · Data Engineer*
 
