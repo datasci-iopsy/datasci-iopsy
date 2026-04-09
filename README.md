@@ -19,18 +19,20 @@ I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCS
 
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Libraries & Frameworks:**
 
-[![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logoColor=white)](https://www.tidyverse.org/)
+[![tidyverse](https://img.shields.io/badge/tidyverse-7ee787?style=flat&logoColor=white)](https://www.tidyverse.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-4F4F4F?style=flat&logoColor=white)](https://ggplot2.tidyverse.org/)
 [![tidymodels](https://img.shields.io/badge/tidymodels-4758AB?style=flat&logoColor=white)](https://www.tidymodels.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-13A3E0?style=flat&logoColor=white)](https://shiny.posit.co/)
 [![R Markdown](https://img.shields.io/badge/R%20Markdown-02303A?style=flat&logoColor=white)](https://rmarkdown.rstudio.com/)
-[![data.table](https://img.shields.io/badge/data.table-3D6D8E?style=flat&logoColor=white)](https://rdatatable.gitlab.io/data.table/)
+[![data.table](https://img.shields.io/badge/data.table-3862A1?style=flat&logoColor=white)](https://rdatatable.gitlab.io/data.table/)
 [![Polars](https://img.shields.io/badge/Polars-1E4D78?style=flat&logo=polars&logoColor=white)](https://pola.rs/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -64,7 +66,6 @@ I-O Psychology PhD candidate (ABD) at NC State University and member of the [NCS
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-7B2FBE?style=flat&logo=coderabbit&logoColor=white)](https://coderabbit.ai/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logoColor=white)](https://www.gnu.org/software/make/)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=white)](https://brew.sh/)
 [![renv](https://img.shields.io/badge/renv-4E79A7?style=flat&logoColor=white)](https://rstudio.github.io/renv/)
